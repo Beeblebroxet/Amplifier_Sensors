@@ -1,0 +1,3 @@
+% Testfil
+
+format compact
